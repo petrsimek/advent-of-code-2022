@@ -1,5 +1,8 @@
 import java.io.File
 
+/**
+ * Advent of Code 2022 - Day 3 - https://adventofcode.com/2022/day/3
+ */
 object Day3 {
 
     val inputList: List<String> = File("src/main/resources/input3.txt").readText(Charsets.UTF_8).split("\n")
